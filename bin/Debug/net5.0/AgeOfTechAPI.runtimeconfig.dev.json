@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Clovis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Clovis\\.nuget\\packages"
+    ]
+  }
+}
